@@ -1,0 +1,288 @@
+    [
+      {
+        "$ItemType": "Furniture",
+        "ID": "Tiny Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 3,
+        "TankGroundCapacity": 3,
+        "TankDecorationCapacity": 3,
+        "Configurations": [
+            {
+                "Texture": "Assets/tiny.png:0",
+              "FrontTexture": "Assets/tiny.png:1",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 300,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Tiny Tank"
+      }
+   },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Tiny Tank on Stand",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 3,
+        "TankGroundCapacity": 3,
+        "TankDecorationCapacity": 3,
+        "Configurations": [
+            {
+                "Texture": "Assets/tiny_stand.png:0",
+              "FrontTexture": "Assets/tiny_stand.png:1",
+                "DisplaySize": { "X": 2, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 400,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Tiny Tank on Stand"
+      }
+   },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Mini Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 5,
+        "TankGroundCapacity": 5,
+        "TankDecorationCapacity": 5,
+        "Configurations": [
+            {
+                "Texture": "Assets/mini.png:0",
+              "FrontTexture": "Assets/mini.png:1",
+                "DisplaySize": { "X": 3, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 500,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Mini Tank"
+      }
+   },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Mini Tank on Stand",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 5,
+        "TankGroundCapacity": 5,
+        "TankDecorationCapacity": 5,
+        "Configurations": [
+            {
+                "Texture": "Assets/mini_stand.png:0",
+              "FrontTexture": "Assets/mini_stand.png:1",
+                "DisplaySize": { "X": 3, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 600,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Mini Tank on Stand"
+      }
+   },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Mangrove Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/Mangrove.png:0",
+              "FrontTexture": "Assets/Mangrove.png:2@60, Assets/Mangrove.png:3@60, Assets/Mangrove.png:4@60, Assets/Mangrove.png:5@60",
+                "DisplaySize": { "X": 7, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 8000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Mangrove Tank"
+      }
+   },
+   {
+        "$ItemType": "Furniture",
+        "ID": "Kelp Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/Kelp.png:0",
+              "FrontTexture": "Assets/Kelp.png:2@20, Assets/Kelp.png:3@20, Assets/Kelp.png:4@20, Assets/Kelp.png:5@20, Assets/Kelp.png:6@20, Assets/Kelp.png:7@20, Assets/Kelp.png:8@20, Assets/Kelp.png:9@20",
+                "DisplaySize": { "X": 7, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 8000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Kelp Tank"
+      }
+   },
+   {
+        "$ItemType": "Furniture",
+        "ID": "Desert Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/Desert.png:0",
+              "FrontTexture": "Assets/Desert.png:2@200, Assets/Desert.png:3@40, Assets/Desert.png:2@200, Assets/Desert.png:4@40, Assets/Desert.png:2@200, Assets/Desert.png:5@40",
+                "DisplaySize": { "X": 7, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 8000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Desert Tank"
+      }
+   },
+   {
+        "$ItemType": "Furniture",
+        "ID": "Swamp Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/Swamp.png:0",
+              "FrontTexture": "Assets/Swamp.png:2@300, Assets/Swamp.png:3@10, Assets/Swamp.png:4@10, Assets/Swamp.png:5@20, Assets/Swamp.png:4@10, Assets/Swamp.png:3@10",
+                "DisplaySize": { "X": 7, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 8000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Swamp Tank"
+      }
+   },
+   {
+        "$ItemType": "Furniture",
+        "ID": "Jungle Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/Jungle.png:0@60",
+              "FrontTexture": "Assets/Jungle.png:2@60, Assets/Jungle.png:3@60",
+                "DisplaySize": { "X": 7, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 8000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Jungle Tank"
+      }
+   },
+   {
+        "$ItemType": "Furniture",
+        "ID": "River Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/River.png:0",
+              "FrontTexture": "Assets/River.png:2@60, Assets/River.png:3@60",
+                "DisplaySize": { "X": 7, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 8000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/River Tank"
+      }
+   },
+   {
+        "$ItemType": "Furniture",
+        "ID": "Reef Tank",
+        "Type": "FishTank",
+        "TankSwimmingCapacity": 10,
+        "TankGroundCapacity": 10,
+        "TankDecorationCapacity": 15,
+        "Configurations": [
+            {
+                "Texture": "Assets/ReefOne.png:0",
+              "FrontTexture": "Assets/ReefOne.png:2@18, Assets/ReefOne.png:3@18, Assets/ReefOne.png:4@18, Assets/ReefOne.png:5@18, Assets/ReefOne.png:6@18, Assets/ReefOne.png:7@18, Assets/ReefOne.png:8@18, Assets/ReefOne.png:9@18, Assets/ReefOne.png:10@18, Assets/ReefOne.png:11@18, Assets/ReefTwo.png:0@18, Assets/ReefTwo.png:1@18, Assets/ReefTwo.png:2@18, Assets/ReefTwo.png:3@18, Assets/ReefTwo.png:4@18, Assets/ReefTwo.png:5@18, Assets/ReefTwo.png:6@18, Assets/ReefTwo.png:7@18, Assets/ReefTwo.png:8@18, Assets/ReefTwo.png:9@18, Assets/ReefTwo.png:10@18, Assets/ReefTwo.png:11@18, Assets/ReefThree.png:0@18, Assets/ReefThree.png:1@18, Assets/ReefThree.png:2@18, Assets/ReefThree.png:3@18, Assets/ReefThree.png:4@18, Assets/ReefThree.png:5@18, Assets/ReefThree.png:6@18, Assets/ReefThree.png:7@18, Assets/ReefThree.png:8@18, Assets/ReefThree.png:9@18, Assets/ReefThree.png:10@18, Assets/ReefThree.png:11@18",
+                "DisplaySize": { "X": 12, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+   {
+      "$ItemType": "ShopEntry",
+      "ShopId": "Carpenter",
+      "Cost": 12000,
+      "Item":  
+      {
+         "Type": "DGAItem",
+         "Value": "StarAmy.FancyTanks/Reef Tank"
+      }
+   },
+]
