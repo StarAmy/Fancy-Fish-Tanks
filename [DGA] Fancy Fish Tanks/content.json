@@ -17,7 +17,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 300,
       "Item":  
       {
@@ -43,7 +43,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 400,
       "Item":  
       {
@@ -69,7 +69,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 500,
       "Item":  
       {
@@ -95,7 +95,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 600,
       "Item":  
       {
@@ -121,7 +121,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 8000,
       "Item":  
       {
@@ -147,7 +147,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 8000,
       "Item":  
       {
@@ -173,7 +173,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 8000,
       "Item":  
       {
@@ -199,7 +199,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 8000,
       "Item":  
       {
@@ -225,7 +225,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 8000,
       "Item":  
       {
@@ -251,7 +251,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 8000,
       "Item":  
       {
@@ -277,7 +277,7 @@
     },
    {
       "$ItemType": "ShopEntry",
-      "ShopId": "Carpenter",
+      "ShopId": "FishShop",
       "Cost": 12000,
       "Item":  
       {
